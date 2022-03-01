@@ -12,4 +12,5 @@ Push PubMed articles on diabetes to members at risk via email, text and direct m
 
 # Outcome
 Decrease in overall healthcare burden.
+
 Increase in life span of members and quality of life.
